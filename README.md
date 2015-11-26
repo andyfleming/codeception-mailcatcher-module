@@ -1,5 +1,7 @@
 # Codeception MailCatcher Module
 
+[![Join the chat at https://gitter.im/andyfleming/codeception-mailcatcher-module](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/andyfleming/codeception-mailcatcher-module?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This module will let you test emails that are sent during your Codeception
 acceptance tests. It depends upon you having
 [MailCatcher](http://mailcatcher.me/) installed on your development server.
